@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '41217'
     url: http://www.gutenberg.org/2009/agents/41217
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44510#Per-luchtschip-de-Argonaut-naar-Mars
 gutenberg_issued: '2013-12-25'
 gutenberg_type: Text
 identifiers:
