@@ -1,0 +1,41 @@
+_repo: Per-luchtschip-de-Argonaut-naar-Mars_44510
+_version: 0.1.0
+alternative_title: Die Weltensegler. Dutch
+contributor:
+  illustrator:
+    agent_name: Vlaanderen, André
+    aliases:
+    - Vlaanderen, Cornelis Andre
+    - Vlaanderen, Cornelis André
+    birthdate: 1881
+    deathdate: 1955
+    gutenberg_agent_id: '33954'
+    url: http://www.gutenberg.org/2009/agents/33954
+  translator:
+    agent_name: Visser, Cath. A.
+    gutenberg_agent_id: '42791'
+    url: http://www.gutenberg.org/2009/agents/42791
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daiber, Albert
+    gutenberg_agent_id: '41217'
+    url: http://www.gutenberg.org/2009/agents/41217
+description: ''
+gutenberg_issued: '2013-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44510'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Science fiction'
+- !lcsh 'Interplanetary voyages -- Fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+title: Per luchtschip "De Argonaut" naar Mars
+url: http://www.gutenberg.org/ebooks/44510
